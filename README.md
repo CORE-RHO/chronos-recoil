@@ -36,10 +36,6 @@ Your hardware is dying. Your CMOS battery is a chemical corpse. Your OS is hallu
 
 **"Time is a flat circle. I just made it run on time."**
 
-<img src="./recoil.png" width="45%" /> <img src="./recoiled.png" width="45%" />
-
-
-
 
 ![App Screenshot](./recoil.PNG)
 ![App Screenshot](./recoiled.PNG)
